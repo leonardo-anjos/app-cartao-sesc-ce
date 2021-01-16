@@ -1,0 +1,7 @@
+{
+  "name": "app-cartao-sesc-ce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
